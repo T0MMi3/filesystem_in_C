@@ -1,6 +1,4 @@
-# shell_in_C
-shell in C
-# Filesystem
+# filesystem_in_C
 
 C code compiles with:
 
